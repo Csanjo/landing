@@ -1,0 +1,28 @@
+.card {
+  box-shadow: 0 0 2px rgba(0,0,0,0.2);
+  width: 242px;
+  padding: 16px;
+  text-align: center;
+}
+
+.card img{
+  width: 65%;
+  margin: 0 auto;
+}
+
+.card h3 {
+  font-size: 16px;
+}
+
+.card p {
+  font-size: 16px;
+}
+
+ .cards{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-container h2 {
+  text-align: center;
+}

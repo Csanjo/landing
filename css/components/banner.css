@@ -1,0 +1,27 @@
+.banner {
+  background-image: url(../../images/background.png);
+  color: azure;
+  margin-top: 0px;
+  display: flex;
+  justify-content: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  height: 200px;
+  background-position: center;
+}
+
+.banner h1{
+  margin-bottom: 8px;
+}
+
+.banner p {
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 8px 0 8px 0;
+  opacity: .6;
+}
+
+.container {
+width: 800px;
+}
